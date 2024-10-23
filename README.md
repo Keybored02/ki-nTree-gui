@@ -16,7 +16,7 @@ This plugin was tested with KiCad `8.5.0`.
 
 In KiCad's PCB Editor, navigate to the `Tools` mene and select `Open Plugin directory`
 
-![](C:\Users\Matteo\Desktop\pluign_menu_1.png)
+![Image1]([C:\Users\Matteo\Desktop\pluign_menu_1.png](https://github.com/Keybored02/ki-nTree-gui/blob/main/pluign_menu_1.png))
 
 Copy the `Ki-nTree` folder to the plugin directory. Then `Refresh Plugins` in KiCad.
 
