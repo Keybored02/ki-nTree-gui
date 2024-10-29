@@ -12,7 +12,7 @@ Ki-nTree has to be installed and configured first. Follow the instruction at [sp
 
 This plugin was tested with KiCad `8.5.0`.
 
-## Usage
+## Usage: KiCad Integration
 
 In KiCad's PCB Editor, navigate to the `Tools` mene and select `Open Plugin directory`
 
@@ -21,6 +21,10 @@ In KiCad's PCB Editor, navigate to the `Tools` mene and select `Open Plugin dire
 Copy the `Ki-nTree` folder to the plugin directory. Then `Refresh Plugins` in KiCad.
 
 A new icon should appear on the toolbar and in the dropdown menu. 
+
+## Usage: Executable
+
+Alternatively, a `Ki-nTree.exe` file is provided to run the utility directly, withouth a terminal. Basic error logging is provided. 
 
 ## Notes
 
